@@ -1,0 +1,2 @@
+[hostnames]
+localhost ansible_user = kt
