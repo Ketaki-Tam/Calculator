@@ -11,14 +11,13 @@ public class Calculator {
 
         while(true)
         {
-            System.out.println("--------------------------------------");
+            System.out.println("-------------------------------------");
             System.out.println("Select an option:");
             System.out.println("1) Square root of a decimal number");
             System.out.println("2) Factorial of an integer");
             System.out.println("3) Natural logarithm of a real number (positive)");
             System.out.println("4) Power of a number");
             System.out.println("5) Exit");
-
 
             int choice = inputclass.in.nextInt();
             if(choice == 1){
