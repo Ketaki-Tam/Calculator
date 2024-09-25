@@ -53,9 +53,9 @@
                             <mainClass>org.example.Calculator</mainClass> <!-- Your main class here -->
                         </manifest>
                     </archive>
-                    <descriptorRefs>
-                        <descriptorRef>jar-with-dependencies</descriptorRef>
-                    </descriptorRefs>
+<!--                    <descriptorRefs>-->
+<!--                        <descriptorRef>jar-with-dependencies</descriptorRef>-->
+<!--                    </descriptorRefs>-->
                 </configuration>
             </plugin>
         </plugins>
