@@ -1,2 +1,2 @@
 [hostnames]
-localhost ansible_user = kt
+localhost ansible_user=kt
