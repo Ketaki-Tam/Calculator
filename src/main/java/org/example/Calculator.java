@@ -11,7 +11,7 @@ public class Calculator {
 
         while(true)
         {
-            System.out.println("-----------------------------------------------");
+            System.out.println("---------#-------------#-------------#-----------#");
             System.out.println("Select an option:");
             System.out.println("1) Square root of a decimal number");
             System.out.println("2) Factorial of an integer");
