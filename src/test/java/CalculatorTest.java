@@ -13,7 +13,6 @@ public class CalculatorTest {
         services = new Services();
     }
 
-
     @Test
     public void test_PositiveFactorial() {
         assertEquals(720.0, services.factorial(6), 0.0001);
