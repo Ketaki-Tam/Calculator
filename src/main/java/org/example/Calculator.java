@@ -7,7 +7,7 @@ public class Calculator {
     public static void main(String[] args) {
         Services ser = new Services();
         
-        System.out.println("");
+        inputclass.in.next();
         System.out.println("Calculator: ");
 
         while(true)
